@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(20, 26, 31);
+    color: rgb(230, 200, 200);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(230, 200, 200);
+}
+
+table{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 300px;
+    border: 1px;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    list-style: none;
+}
+
